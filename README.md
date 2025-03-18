@@ -14,7 +14,7 @@ Actualmente, estoy cursando un ciclo formativo de grado superior en Desarrollo d
 
 💡 &nbsp;Desarrollar aplicaciones innovadoras que ofrezcan soluciones útiles y creativas.
 
-📝 &nbsp;Continuar aprendiendo sobre mejores prácticas y metodologías ágiles para trabajar de manera más eficiente.\
+📝 &nbsp;Continuar aprendiendo sobre mejores prácticas y metodologías ágiles para trabajar de manera más eficiente.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
