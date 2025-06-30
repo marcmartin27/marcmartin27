@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓&nbsp;Soy Marc Martin, un joven desarrollador web Full-Stack con mucha ambición, ganas de progresar y aprender cosas nuevas. 🚀
-Actualmente, estoy cursando un ciclo formativo de grado superior en Desarrollo de Aplicaciones Web y trabajando junto a un desarrollador web freelance. Me especializo en la creación de aplicaciones web eficientes y escalables utilizando tecnologías modernas y frameworks como Laravel y CodeIgniter. Siempre busco enfrentar nuevos desafíos que me permitan mejorar continuamente.
+Desarrollador de Aplicaciones Web. Me especializo en la creación de aplicaciones web eficientes y escalables utilizando tecnologías modernas y frameworks como Laravel, CodeIgniter, Django, React... Siempre busco enfrentar nuevos desafíos que me permitan mejorar continuamente.
 
 ### 🔜 &nbsp;Goals
 
